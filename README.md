@@ -1,5 +1,5 @@
 Here is the full video for our project:https://www.youtube.com/watch?v=2RV2mgHboPU
-
+Since the code is confidential, I cannot share the code. You can email at bhagra@usc.edu for more details.
 
 # TAGPT
 Here's a clearer version of your README instructions for running the code:
